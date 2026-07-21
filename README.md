@@ -10,6 +10,12 @@ PhD student in microbial genomics and metagenomics at the University of Calgary.
 - Secondary metabolite biosynthesis
 - Diatom-associated microbial consortia
 
+## Publications
+1. Yi, L., Solanki, R., Moll, M., Vadlamani, A., De la Hoz Siegler, H., & Strous, M. (2025). Toward sustainable phycocyanin production using halo-alkaliphilic cyanobacteria: from direct air capture of carbon dioxide to biorefinery. Frontiers in Microbiology, 16, 1618123. https://doi.org/10.3389/fmicb.2025.16181232
+2. Yi, L., Solanki, R., & Strous, M. (2024). In search of the pH limit of growth in halo‐alkaliphilic cyanobacteria. Environmental Microbiology Reports, 16(4), e13323. https://doi.org/10.1111/1758-2229.13323
+3. Solanki, R., Bhatt, A., Patel, J., & Kothari, R. (2023). Evaluation of prebiotic utilization and probiotic properties of potential probiotic bacteria of food and human origin. Food Science & Nutrition Technology, 8(2), 1–12. https://doi.org/10.23880/fsnt-16000297 
+4. Solanki, R., & Rowe, A. (2019). Characterization of a Pseudomonas stutzeri strain from marine sediments capable of iron oxidation and electrode oxidation. Undergraduate Scholarly Showcase, 1(2).
+
 ## Projects
 - [Cyanobacterial consortium MAGs](https://github.com/Ruchita-0310/Cyanobacterial_consortia_NP)
 - [Diatom consortium genomics](https://github.com/Ruchita-0310/diatom-consortium-genomics)
