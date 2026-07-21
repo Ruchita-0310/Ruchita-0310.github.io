@@ -1,5 +1,5 @@
 # Ruchita Solanki
-ruchita.solanki@ucalgary.ca | [LinkedIn](https://www.linkedin.com/in/ruchita-solanki-27bab721a/) | [GitHub](https://github.com/Ruchita-0310) | [CV](/assets/cv/RS.pdf)
+[Email](mailto:ruchita.solanki@ucalgary.ca) | [LinkedIn](https://www.linkedin.com/in/ruchita-solanki-27bab721a/) | [GitHub](https://github.com/Ruchita-0310) | [CV](/assets/cv/RS.pdf)
 
 PhD student in microbial genomics and metagenomics at the University of Calgary.
 
