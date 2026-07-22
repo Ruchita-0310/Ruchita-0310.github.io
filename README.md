@@ -17,8 +17,8 @@ PhD student in microbial genomics and metagenomics at the University of Calgary.
 4. Solanki, R., & Rowe, A. (2019). Characterization of a Pseudomonas stutzeri strain from marine sediments capable of iron oxidation and electrode oxidation. Undergraduate Scholarly Showcase, 1(2).
 
 ## Projects
-- [Cyanobacterial consortium MAGs](https://github.com/Ruchita-0310/Cyanobacterial_consortia_NP)
-- [Diatom consortium genomics](https://github.com/Ruchita-0310/diatom-consortium-genomics)
+- [Cyanobacterial consortia metagenomics](https://github.com/Ruchita-0310/Cyanobacterial_consortia_NP)
+- [Diatom consortium metagenomics](https://github.com/Ruchita-0310/diatom-consortium-genomics)
 
 ## Education
 
